@@ -1,0 +1,1 @@
+warranty_url = "https://www.barco.com/en/clickshare/support/warranty-info"

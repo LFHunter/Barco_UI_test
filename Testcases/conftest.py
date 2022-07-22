@@ -3,6 +3,7 @@ import os
 
 import pytest
 
+run_webdriver = browsers.mapping_browser[config.BROWSER]()
 
 @pytest.fixture(scope="class")
 def driver():
